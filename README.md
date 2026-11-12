@@ -1,4 +1,4 @@
-# Adding a "Ruby Data Advocate" to the GHSA team.
+# Job Post: GHSA Ruby Data Advocate
 
 This job would focus on improving the GHSA[1] Ruby-based data/process.
  * Definition
