@@ -9,6 +9,7 @@ This job would focus on improving the GHSA[1] Ruby-based data/process.
      * Continue to create ruby-advisory-db[5] advisories using
        current process (I create PR, another person reviews, I merge).
        * Work ruby-advisory-db/lib/rad-ignores.sh advisories.
+     * Handle advisory-database[6] repo's ruby-based PR triage
    * Paid position
      * Salary plus some benefits
      * Equipment expenses
@@ -22,3 +23,4 @@ LEGEND
  - [3] Example: https://github.com/rails/rails/security/advisories
  - [4] https://github.com/advisories?query=type%3Aunreviewed+ruby
  - [5] https://github.com/rubysec/ruby-advisory-db
+ - [6] https://github.com/github/advisory-database/pulls?q=ruby
