@@ -14,6 +14,7 @@ This job would focus on improving the GHSA[1] Ruby-based data/process.
    * Paid position
      * Salary plus some benefits
      * Equipment expenses
+   * Tools and infrastructure to support this work.
    * (TBD) If ruby/rails conferences are included.
      * Workshop (How to created ruby-advisory-db advisories)
      * Travel/expenses
