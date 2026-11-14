@@ -1,4 +1,4 @@
-# Job Post: GHSA Ruby Data Advocate
+# Job Post: GHSA Ruby Data Advocate/CareTaker
 
 This job would focus on improving the GHSA[1] Ruby-based data/process.
  * Definition
