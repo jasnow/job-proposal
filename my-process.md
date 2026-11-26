@@ -1,13 +1,13 @@
 # My daily ruby-advisory-db (RAD) process
 
- 1. Check current open RAD and bundler-audit (BA) issues and PRs. 
-    * Review and approve BA dependabot PRs.
+ 1. ~~Check current open RAD and bundler-audit (BA) issues and PRs.~~
+    * ~~Review and approve BA dependabot PRs.~~
 
  2. RAD
 
     A. Daily Find/Share RAD advisories.
-       1. Use tools under RAD's lib directory to get GHSA Review advisories.
-          * github_advisory_sync.rb, rad-ignores.sh
+       1. ~~Use tools under RAD's lib directory to get GHSA Review advisories.~~
+          * ~~github_advisory_sync.rb, rad-ignores.sh~~
        2. Check for GHSA unreviewed advisories.
           * https://github.com/advisories?query=type%3Aunreviewed+ruby
        3. To get advisories before GHSA publishs them
@@ -29,9 +29,11 @@
           * Example: https://www.ruby-lang.org/en/security
           * https://github.com/advisories?query=type%3Areviewed+ecosystem%3Arubygems
 
-    B. Create RAD advisory files from step 1.
-       * lib/mkm tool - Usage: "mkm . >> FILE.yml"
+    B. Create RAD advisory files from step A/2.
+       * ~~lib/mkm tool - Usage: "mkm . >> FILE.yml"~~
 
-    C. Review step 2's RAD advs. Assign others to review.
+    C. ~~Review step 2's RAD advs. Assign others to review.~~
 
-    D. Merge step 3's RAD advs.
+    D. ~~Merge step 3's RAD advs.~~
+
+    E. Create RAD issues with step A/3 and A/4 and A/5 advisories.
